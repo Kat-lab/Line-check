@@ -5,3 +5,5 @@ K. Bosselmann
 2019-11-08
 ## Ort
 Braunschweig
+## Wert
+8
